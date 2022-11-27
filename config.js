@@ -170,8 +170,8 @@ const CONFIG = {
 					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Facebook',
-					link: 'https://www.facebook.com/',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/u/',
 				},
 				{
 					name: 'Meet',
