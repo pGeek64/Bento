@@ -141,20 +141,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'meh',
-					link: 'https://open.spotify.com/playlist/5lKHMasghPhvNNUOuyBevy?si=d64e59dc1f094fc0',
+					name: 'revisited',
+					link: 'https://open.spotify.com/playlist/1kz6c3UexmSeaX44TAQZES',
 				},
 				{
-					name: 'Bollywood',
-					link: 'https://open.spotify.com/playlist/1kz6c3UexmSeaX44TAQZES?si=41ea7c6100d34aa9',
+					name: 'my impending doom',
+					link: 'https://open.spotify.com/playlist/6emjVsVvjPdlnomWZ75c1Z',
 				},
 				{
-					name: 'hm',
-					link: 'https://open.spotify.com/playlist/4oRQ96HeHWQGhVcu4TJD2B?si=7e3919d9fa20407c',
+					name: 'bangla',
+					link: 'https://open.spotify.com/playlist/46ttiaH1oxA2Geb9OODGm7',
 				},
 				{
 					name: 'all',
-					link: 'https://open.spotify.com/user/5gce3adarx27egg0eijqlbar6?si=2531801d57884b48',
+					link: 'https://open.spotify.com/user/5gce3adarx27egg0eijqlbar6',
 				},
 			],
 		},
