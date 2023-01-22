@@ -145,7 +145,7 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/1kz6c3UexmSeaX44TAQZES',
 				},
 				{
-					name: 'my impending doom',
+					name: 'down bad',
 					link: 'https://open.spotify.com/playlist/6emjVsVvjPdlnomWZ75c1Z',
 				},
 				{
