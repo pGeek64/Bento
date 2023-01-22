@@ -7,7 +7,7 @@ const generateFirstListsContainer = () => {
 	for (const list of CONFIG.firstlistsContainer) {
 		let item = `
         <div class="card list list__${list.id}" id="list_${list.id}">
-          <i class="listIcon" icon-name="${list.icon}"></i>
+          <i class="${list.icon} fa-2x"></i>
           <a
           target="${CONFIG.openInNewTab ? '_blank' : ''}"
           href="${list.links[0].link}"
