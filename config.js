@@ -5,6 +5,7 @@
 // │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
 
+
 const CONFIG = {
 	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
 	// ├┴┐├─┤└─┐││  └─┐
@@ -55,37 +56,37 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Github',
-			icon: 'github',
+			icon: 'fab fa-github-alt',
 			link: 'https://github.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
-			icon: 'mail',
+			icon: 'far fa-envelope',
 			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
 			name: 'WhatsApp',
-			icon: 'message-circle',
+			icon: 'fab fa-whatsapp',
 			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
 			name: 'Drive',
-			icon: 'hard-drive',
+			icon: 'fab fa-google-drive',
 			link: 'https://drive.google.com/',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'fab fa-reddit-alien',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'fab fa-youtube',
 			link: 'https://youtube.com/',
 		},
 	],
@@ -136,7 +137,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'fab fa-spotify',
 			id: '1',
 			links: [
 				{
@@ -158,7 +159,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'fas fa-briefcase',
 			id: '2',
 			links: [
 				{
