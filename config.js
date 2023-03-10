@@ -137,24 +137,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'fab fa-spotify',
+			icon: 'fas fa-clover',
 			id: '1',
 			links: [
 				{
-					name: 'revisited',
-					link: 'https://open.spotify.com/playlist/1kz6c3UexmSeaX44TAQZES',
+					name: '/wg/',
+					link: 'https://boards.4chan.org/wg/',
 				},
 				{
-					name: 'down bad',
-					link: 'https://open.spotify.com/playlist/6emjVsVvjPdlnomWZ75c1Z',
+					name: '/b/',
+					link: 'https://boards.4chan.org/b/',
 				},
 				{
-					name: 'bangla',
-					link: 'https://open.spotify.com/playlist/46ttiaH1oxA2Geb9OODGm7',
+					name: '/mu/',
+					link: 'https://boards.4chan.org/mu/',
 				},
 				{
-					name: 'all',
-					link: 'https://open.spotify.com/user/5gce3adarx27egg0eijqlbar6',
+					name: '/s4s/',
+					link: 'https://boards.4chan.org/s4s/',
 				},
 			],
 		},
